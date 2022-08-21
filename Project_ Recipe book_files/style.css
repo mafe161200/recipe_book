@@ -1,0 +1,133 @@
+body{
+    background-color:rgb(245, 235, 220);
+    scroll-padding: 10px;
+    padding-left:20rem;
+    padding-right:20rem;
+    margin:10px,10px,10px,10px;
+    }
+#title{
+background-color:rgb(3,22,52);
+text-transform: uppercase;
+color:rgb(205,179,128);
+font-family:poppins;
+text-align:center;
+}
+.subtitles{
+     font-weight:400;
+color:rgb(3,22,52);
+font-family:poppins;
+text-align:left;
+font-size:18px;
+}
+#subtitle-1{
+     font-weight:600;
+color:rgb(3,54,73);
+font-family:poppins;
+text-align:left;
+font-size:20px;
+text-align:center;
+}
+    #subtitle-2{
+     font-weight:600;
+color:rgb(3,54,73);
+font-family:poppins;
+text-align:left;
+font-size:20px;
+text-align:center;
+}
+    #subtitle-3{
+     font-weight:600;
+color:rgb(3,54,73);
+font-family:poppins;
+text-align:left;
+font-size:20px;
+text-align:center;
+}
+
+#content-table{
+margin:0px;
+padding:0px;
+background-color:rgb(3,22,52);
+border-radius:2px;
+font-size:10px;
+}
+#content{
+margin:0px;
+padding:0px;
+font-weight:500;
+font-family:poppins;
+text-align:left;
+font-size:15px;
+display:flex;
+text-decoration:none;
+justify-content:space-around;
+list-style:none;
+}
+.links{
+text-decoration:none;
+text-align:center;
+font-family:poppins;
+font-weight:500;
+color:rgb(0, 138, 110);
+font-family:poppins;
+text-align:left;
+list-style:none;
+font-size:10px;
+}
+a{
+font-size:14px;
+text-decoration:none;
+color:rgb(242, 242, 242);
+}
+
+.time-serves{
+text-decoration:none;
+color:rgb(3,101,100);
+font-family:poppins;
+font-weight:300;
+display:flex;
+text-decoration:none;
+justify-content:space-around;
+list-style:none;
+}
+
+table{
+font-size:12px;
+text-decoration:none;
+font-family:poppins;
+font-weight:400;
+border-color:rgb(3,22,52);
+text-decoration:none;
+list-style:none;
+text-align:center;
+border-spacing:1rem;
+vertical-align: center;
+border: 1px solid rgb(186, 186, 186);
+width: 100%;
+border-radius:8px;
+background-color:rgb(252, 239, 214);
+border-collapse: separate;
+border-spacing: 5px;
+width: 100%;
+}
+
+th, td {
+vertical-align: top;
+border: 1px;
+color:rgb(3,101,100);
+
+}
+
+
+p{
+font-size:12px;
+text-decoration:none;
+color:rgb(3,22,52);
+font-family:poppins;
+font-weight:400;
+border-color:rgb(3,22,52);
+text-decoration:none;
+list-style:none;
+display:table-row;
+border-spacing:1rem;
+}
